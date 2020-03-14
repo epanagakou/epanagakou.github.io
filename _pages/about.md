@@ -4,7 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /cv/
-  - /cv.html
+  - /about/
+  - /about.html
 ---
 
