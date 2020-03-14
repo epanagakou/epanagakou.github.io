@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Mathematics Teaching Strategies, Curriculum Development, Education, Cognitive Processes that support Learning, Human Development and Behavior
+* Computational Epidemiology, Synchronization Phenomena, Reaction-diffusion Systems, Fractals and Pattern Formation, Network Science, Complex Systems
+
+
 Education
 ======
 * Ph.D student in Applied Developmental and Educational Psychology, Boston College (USA), current
@@ -66,6 +72,37 @@ Research Experience
   * National Center for Scientific Research “Demokritos”, Athens, Greece
   * Joined a research team and worked on the processing of experimental data coming from the highenergy physics experiments that were being carried out in CERN.
 
+Teaching Experience
+======
+
+* Part-time Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University | Spring Semester 2018
+* Associate Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University | Spring Semester 2017
+* Co-Educator,”Global Systems Science and Policy: An introduction”, two-week recurrent MOOC course on FutureLearn | March 2016 – Present
+* Secondary Instructor,”Physics 10b” (Introduction to Physical Laws and Phenomena II), Brandeis University | Spring Semester 2016
+* Teaching Assistant,”Responsible Conduct of Research”, Brandeis University | Spring Semester 2016
+* Teacher, Chess Club “Aigli Papagou”, volunteer (Athens, Greece) | Sep 2008 – Dec 2014
+* Mathematics Teacher at Tutoring Center for Secondary and Higher Education E. Stogiannis,
+* Secondary/high school and undergraduate students (Athens, Greece) | Sep 2009 – May 2013
+* Teaching Assistant, Department of Mathematics and Statistics, University of Massachusetts, Amherst | Subject: Linear Methods and Probability for Business | Feb 2007 – May 2008
+* Teaching Assistant, Department of Physics, University of Athens (Athens, Greece). | Subjects: Electronics I Lab | Fall Semester 2005
+* Private Tutor to Secondary and High School students. Subjects: Mathematics and Physics (Athens, Greece) | Sep 2001 – Jun 2006
+* Private Tutor to Undergraduate students of the Department of Physics (University of Athens, Athens, Greece). Subjects: Electronics and Mechanics | Sep 2002 – Jun 2006
+
+
+Skills
+=======
+* Mathematical Modeling, Computer Programming, Numerical Analysis, Statistical Analysis, Network Analysis, Epidemic Modeling, Nonlinear Dynamics, Kinetic Monte Carlo Simulations, Fractal and Pattern Formation
+
+Computational Skills
+=======
+* Programming Languages & Scientific Software Packages: Python, Fortran, SPSS, Latex, Matlab
+* Software Packages: Microsoft Office, Open Office, Keynote
+* Operating Systems: GNU/Linux, Mac, Windows
+
+
+Publications
+=======
+See <a href="{{author.googlescholar}}">my Google Scholar profile</a>
 
 <!--
 Skills
