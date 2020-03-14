@@ -72,21 +72,22 @@ Research Experience
   * National Center for Scientific Research “Demokritos”, Athens, Greece
   * Joined a research team and worked on the processing of experimental data coming from the highenergy physics experiments that were being carried out in CERN.
 
+
 Teaching Experience
 ======
 
-* Part-time Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University | Spring Semester 2018
-* Associate Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University | Spring Semester 2017
-* Co-Educator,”Global Systems Science and Policy: An introduction”, two-week recurrent MOOC course on FutureLearn | March 2016 – Present
-* Secondary Instructor,”Physics 10b” (Introduction to Physical Laws and Phenomena II), Brandeis University | Spring Semester 2016
-* Teaching Assistant,”Responsible Conduct of Research”, Brandeis University | Spring Semester 2016
-* Teacher, Chess Club “Aigli Papagou”, volunteer (Athens, Greece) | Sep 2008 – Dec 2014
+* Part-time Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2018
+* Associate Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2017
+* Co-Educator,”Global Systems Science and Policy: An introduction”, two-week recurrent MOOC course on FutureLearn. March 2016 – Present
+* Secondary Instructor,”Physics 10b” (Introduction to Physical Laws and Phenomena II), Brandeis University. Spring Semester 2016
+* Teaching Assistant,”Responsible Conduct of Research”, Brandeis University. Spring Semester 2016
+* Teacher, Chess Club “Aigli Papagou”, volunteer (Athens, Greece). Sep 2008 - Dec 2014
 * Mathematics Teacher at Tutoring Center for Secondary and Higher Education E. Stogiannis,
-* Secondary/high school and undergraduate students (Athens, Greece) | Sep 2009 – May 2013
-* Teaching Assistant, Department of Mathematics and Statistics, University of Massachusetts, Amherst | Subject: Linear Methods and Probability for Business | Feb 2007 – May 2008
-* Teaching Assistant, Department of Physics, University of Athens (Athens, Greece). | Subjects: Electronics I Lab | Fall Semester 2005
-* Private Tutor to Secondary and High School students. Subjects: Mathematics and Physics (Athens, Greece) | Sep 2001 – Jun 2006
-* Private Tutor to Undergraduate students of the Department of Physics (University of Athens, Athens, Greece). Subjects: Electronics and Mechanics | Sep 2002 – Jun 2006
+* Secondary/high school and undergraduate students (Athens, Greece). Sep 2009 - May 2013
+* Teaching Assistant, Department of Mathematics and Statistics, University of Massachusetts, Amherst. Subject: Linear Methods and Probability for Business. Feb 2007 - May 2008
+* Teaching Assistant, Department of Physics, University of Athens (Athens, Greece). Subjects: Electronics I Lab. Fall Semester 2005
+* Private Tutor to Secondary and High School students. Subjects: Mathematics and Physics (Athens, Greece). Sep 2001 - Jun 2006
+* Private Tutor to Undergraduate students of the Department of Physics (University of Athens, Athens, Greece). Subjects: Electronics and Mechanics. Sep 2002 - Jun 2006
 
 
 Skills
@@ -102,7 +103,7 @@ Computational Skills
 
 Publications
 =======
-See <a href="{{author.googlescholar}}">my Google Scholar profile</a>
+See <a href="https://scholar.google.com/citations?user=vr51q-UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>
 
 <!--
 Skills
