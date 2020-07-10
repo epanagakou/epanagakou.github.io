@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
+Interests
 ======
-* Mathematics Teaching Strategies, Curriculum Development, Education, Cognitive Processes that support Learning, Human Development and Behavior
-* Computational Epidemiology, Synchronization Phenomena, Reaction-diffusion Systems, Fractals and Pattern Formation, Network Science, Complex Systems
+* STEM Project Management, Education Outreach & Diversity, STEM Teaching Strategies, Curriculum Development, Education, Cognitive Processes that support Learning, Human Development and Behavior
+* Reaction-diffusion Systems, Computational Epidemiology, Synchronization Phenomena, Fractals & Pattern Formation, Network Science, Complex Systems
+
 
 
 Education
@@ -76,6 +77,7 @@ Research Experience
 Teaching Experience
 ======
 
+* Teaching Assistant, designer of curriculum activities for new Undergraduate Statistics class |June & July 2020
 * Part-time Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2018
 * Associate Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2017
 * Co-Educator,”Global Systems Science and Policy: An introduction”, two-week recurrent MOOC course on FutureLearn. March 2016 – Present
