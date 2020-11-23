@@ -18,17 +18,18 @@ Interests
 
 Education
 ======
-* Ph.D student in Applied Developmental and Educational Psychology, Boston College (USA), current
+* M.S. in Applied Developmental and Educational Psychology, Boston College (USA), 2020
 * Ph.D in Physics, University of Athens (Greece), 2015
 * M.S. in Applied Mathematics, University of Massachusetts, Amherst (USA), 2008
 * B.S. in Physics, University of Athens (Greece), 2007
 
 Research Experience
 ======
-* August 2018 - Present: Graduate Research Assistant
+* August 2018 - August 2020: Graduate Research Assistant
+  * Advisors: Dr. Μ. Vasilyeva, Dr. E. Laski
   * The Thinking and Learning Lab, Lynch School of Education and Human Development, Boston College
-  * Research Projects: a. Examining Teachers’ use of Cognitive Learning Principles, b. Designing and Implementing a Mathematics Teaching Intervention 
-  * PI: Dr. Vasilyeva, Co-PIs: Dr. Laski & Dr. Casey
+  * Research Projects: a. Examining Teaching Congruence with Cognitive Learning Strategies, b. Designing & Implementing Math Intervention for First-Grade Students 
+ 
 
 * July 2016 - July 2018: Postdoctoral Research Associate
   * Laboratory for the Modeling of Biological and Socio-technical Systems (MOBS Lab, https://www.mobs-lab.org/)
