@@ -78,7 +78,7 @@ Research Experience
 Teaching Experience
 ======
 
-* Teaching Assistant, designer of curriculum activities for Undergraduate Statistics class |June & July 2020
+* Teaching Assistant, designer of curriculum activities for Undergraduate Statistics class, Boston College, June and July 2020
 * Part-time Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2018
 * Associate Lecturer, ”Physics 1125” (Introduction to Network Science), Northeastern University. Spring Semester 2017
 * Co-Educator,”Global Systems Science and Policy: An introduction”, two-week recurrent MOOC course on FutureLearn. March 2016 – Present
