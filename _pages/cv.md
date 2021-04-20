@@ -11,8 +11,9 @@ redirect_from:
 
 Interests
 ======
-* STEM Project Management, Education Outreach & Diversity, STEM Teaching Strategies, Curriculum Development, Education, Cognitive Processes that support Learning, Human Development and Behavior
-* Reaction-diffusion Systems, Computational Epidemiology, Synchronization Phenomena, Fractals & Pattern Formation, Network Science, Complex Systems
+* Education, Outreach & Diversity, STEM Project Management 
+* Learning Science, Mentoring & Motivation, STEM Teaching Strategies, Curriculum Development, Education, Cognitive Processes that support Learning, Human Development and Behavior
+* Network Science, Complex Systems
 
 
 
@@ -23,56 +24,61 @@ Education
 * M.S. in Applied Mathematics, University of Massachusetts, Amherst (USA), 2008
 * B.S. in Physics, University of Athens (Greece), 2007
 
-Research Experience
+Professional Experience
 ======
-* August 2018 - August 2020: Graduate Research Assistant
+* January 2021 - present: Education, Outreach, and Diversity Coordinator, Northeastern University
+  * Network Science Institute (NetSI)
+
+* June 2020 - July 2020: Teaching Assistant, Boston College
+  * Advisor: Dr. M. Vasilyeva
+
+* August 2018 - May 2020: Research Assistant, Boston College
+  * The Thinking and Learning Lab, Lynch School of Education and Human Development
   * Advisors: Dr. Μ. Vasilyeva, Dr. E. Laski
-  * The Thinking and Learning Lab, Lynch School of Education and Human Development, Boston College
   * Research Projects: a. Examining Teaching Congruence with Cognitive Learning Strategies, b. Designing & Implementing Math Intervention for First-Grade Students 
  
+* January 2018 - April 2018: Part-time Lecturer, Northeastern University
 
 * July 2016 - July 2018: Postdoctoral Research Associate
   * Laboratory for the Modeling of Biological and Socio-technical Systems (MOBS Lab, https://www.mobs-lab.org/)
-  * Network Science Institute (https://www.networkscienceinstitute.org/), Northeastern University
-  * Worked on computational epidemiology, organizational and educational projects (e.g. evaluation of NETSI PhD Program), as well as outreach activities
-  * PI: Prof. Alessandro Vespignani
+  * Advisor: Prof. Alessandro Vespignani
   
-* July 2015 - June 2016: Postdoctoral Researcher
-  * Nonlinear Dynamics Group [Epstein Group]
-  * Chemistry Department, Brandeis University
-  * Worked on Nonlinear Dynamics. Specifically modeling and experimenting on coupled chemical oscillators on etched silicon chips. I was also affiliated and collaborated with the Fraden Group in Physics Department.
-  * PI: Prof. Irving R. Epstein
-  
-* February 2015 - July 2015: Research Scholar
-  * Nonlinear Dynamics Group [Epstein Group]
-  * Chemistry Department, Brandeis University
-  * Worked on Nonlinear Dynamics. Studied and modeled chemical oscillators using the Oregonator model and piecewise linear approximation, for the Belousoz-Zhabotinsky reaction.
-  * PI: Prof. Irving R. Epstein
+* January 2016 - May 2016: Teaching Fellow, Brandeis University
+  * Course: Responsible Conduct of Research
 
+* July 2015 - June 2016: Postdoctoral Researcher, Brandeis University
+  * Nonlinear Dynamics Group [Epstein Group], Chemistry Department
+  * Advisor: Prof. I. R. Epstein
+  
+* February 2015 - July 2015: Research Scholar, Brandeis University
+  * Nonlinear Dynamics Group [Epstein Group], Chemistry Department
+  * Advisor: Prof. I. R. Epstein
 
 * Jul 2014 - Jun 2017: Visiting Research Fellow
   * The Open University, UK
-  * Worked with Prof. Jeff Johnson and the Étoile team on the preparation and management of courses on Hyper-networks and the Global Systems Science and Policy.
+  * Advisor: Prof. J. Johnson
 
-* December 2010 - July 2015: PhD Fellow
-  * National Center for Scientific Research “Demokritos”, Athens, Greece
-  * Worked with Dr. A. Provata, Prof. F. Diakonos and D. J. Frantzeskakis on Synchronization Phenomena in Lattices of Coupled Oscillators.
-  * Worked with Dr. A. Provata and Dr. J. Hizanidis on Multi-Chimera States in Populations Dynamics
-  * Networks with Hierarchical and Fractal Connectivity Matrix. Worked with Dr. A. Provata on Abstract Phase-space Networks Describing Reactive Dynamics. 
-  * Worked with Dr. A. Provata and Dr. G. C. Boulougouris on Effective Mean Field Approach to Kinetic Monte Carlo Simulations in Limit Cycle Dynamics with Reactive and Diffusive Rewiring.
+* December 2010 - July 2015: PhD Fellow, National Center for Scientific Research "Demokritos", Greece
+  * Insitute of Physical Chemistry, Nonlinear Dynamics Lab
+  * Advisor: Dr. A. Provata
 
-* Spring Semester 2009: Graduate Student
-  * Athens Information Technology Center, Athens, Greece
-  * Worked with Prof. C. Boukis on an independent study on the predictability of epileptic seizures from EEG signals.
+* September 2019 - May 2013 (academic years): Mathematics Teacher, Tutoring Center for Secondary and Higher Education E. Stogiannis, Greece
 
-* September 2006 - May 2008: Master Student
-  * Department of Mathematics and Statistics, University of Massachusetts, Amherst, MA, USA
-  * Worked with Prof. N. Whitaker on a research project on mathematical modeling of tumor growth.
-  * Worked with Prof. P. G. Kevrekidis on a research project on Bose-Einstein Condensation.
+* February 2008 - May 2008: Teaching Assistant, University of Massachusetts, Amherst
+  * Department of Mathematics & Statistics
+  * Superviosr: J. Beaulieu
 
-* June 2003 - August 2003: Undergraduate Student
-  * National Center for Scientific Research “Demokritos”, Athens, Greece
-  * Joined a research team and worked on the processing of experimental data coming from the highenergy physics experiments that were being carried out in CERN.
+* September 2007 - May 2008 Student Assistant - System Manager/Administrator, Research Computing Facility (RCF), University of Massachusetts, Amherst
+  * Department of Mathematics & Statistics
+  * Supervisor: K. R. Pollard
+
+* February 2007 - May 2007: Teaching Assistant, University of Massachusetts, Amherst
+  * Department of Mathematics & Statistics
+  * Supervisor: C. Benincasa
+
+* September 2006 - December 2006: Research Assistant, University of Massachusetts, Amherst
+  * Department of Mathematics & Statistics
+  * Advisor: Prof. P. Kevrekidis
 
 
 Teaching Experience
